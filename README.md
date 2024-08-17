@@ -5,3 +5,10 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+
+
+## Membuat Project Vue (Vite)
+```bash
+npm create [email protected] frontend-vue -- --template vue
+```
+![image](https://github.com/user-attachments/assets/ce9a5374-43de-4192-9d20-33abe5346fe0)
