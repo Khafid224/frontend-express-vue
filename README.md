@@ -39,3 +39,6 @@ https://router.vuejs.org/
 
 ## uji coba menampilkan halaman users
 ![image](https://github.com/user-attachments/assets/c8a396f4-325a-45c6-8b11-d61bdd0bef39)
+
+## uji coba menampilkan list data users
+![image](https://github.com/user-attachments/assets/9ffabecd-cbe4-4ea4-955b-ea6d329cd2d2)
