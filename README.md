@@ -31,4 +31,6 @@ https://router.vuejs.org/
 ![image](https://github.com/user-attachments/assets/25fd9892-f15b-4c6e-b372-1836e8c58808)
 ![image](https://github.com/user-attachments/assets/e8163646-6e90-4790-80e3-733b49f926b7)
 
+## uji coba halaman dashboard
+![image](https://github.com/user-attachments/assets/11d3ae71-d542-4cae-9d67-68aa1289a015)
 
