@@ -50,3 +50,5 @@ https://router.vuejs.org/
 ## uji coba proses edit dan update users
 ![image](https://github.com/user-attachments/assets/775aa938-cf8d-4cf1-a927-fc582142fa86)
 
+## uji coba delete data users
+![image](https://github.com/user-attachments/assets/f147deee-5d53-4aa0-8e0e-d109fb8c11af)
