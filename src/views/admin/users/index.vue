@@ -40,6 +40,20 @@ onMounted(() => {
     fetchDataUsers();
 });
 
+//method deleteUser
+const deleteUser = async (id) => {
+
+    //delete post with API
+    api.defaults.headers.common['Authorization'] = token;
+    await api.delete(`/api/admin/users/${id}`)
+        .then(() => {
+
+            //call method "fetchDataUsers"
+            fetchDataUsers();
+        })
+
+};
+
 </script>
 
 <template>
@@ -78,7 +92,7 @@ onMounted(() => {
                                     <td class="text-center">
                                         <router-link :to="{ name: 'admin.users.edit', params: { id: user.id } }"
                                             class="btn btn-sm btn-primary rounded-sm shadow border-0 me-2">EDIT</router-link>
-                                        <button class="btn btn-sm btn-danger rounded-sm shadow border-0">DELETE</button>
+                                        <button @click="deleteUser(user.id)" class="btn btn-sm btn-danger rounded-sm shadow border-0">DELETE</button>
                                     </td>
                                 </tr>
                             </tbody>
