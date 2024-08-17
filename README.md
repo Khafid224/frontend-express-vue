@@ -17,3 +17,10 @@ npm create [email protected] frontend-vue -- --template vue
 https://github.com/axios/axios
 https://github.com/js-cookie/js-cookie
 https://router.vuejs.org/
+
+## Uji coba route
+![image](https://github.com/user-attachments/assets/5b6224fe-51e5-45b3-838b-c19fc060b8ac)
+![image](https://github.com/user-attachments/assets/d11d5156-e5e7-4ecc-b6f1-f513bf88f262)
+![image](https://github.com/user-attachments/assets/73ac25cb-c114-44e3-a2a0-94282a1cf778)
+
+
