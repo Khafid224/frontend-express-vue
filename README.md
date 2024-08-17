@@ -42,3 +42,8 @@ https://router.vuejs.org/
 
 ## uji coba menampilkan list data users
 ![image](https://github.com/user-attachments/assets/9ffabecd-cbe4-4ea4-955b-ea6d329cd2d2)
+
+## uji coba insert data users
+![image](https://github.com/user-attachments/assets/39449ede-b915-443b-b092-ca8f3b9a8ee4)
+![image](https://github.com/user-attachments/assets/ed96120c-5028-4d63-8bb6-afec48502b52)
+
