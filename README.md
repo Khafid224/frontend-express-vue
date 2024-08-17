@@ -23,4 +23,7 @@ https://router.vuejs.org/
 ![image](https://github.com/user-attachments/assets/d11d5156-e5e7-4ecc-b6f1-f513bf88f262)
 ![image](https://github.com/user-attachments/assets/73ac25cb-c114-44e3-a2a0-94282a1cf778)
 
+## Uji coba proses register
+![image](https://github.com/user-attachments/assets/04e76f4e-8c35-40b8-acc5-bfd7702cec66)
+![image](https://github.com/user-attachments/assets/8dcb568d-b1f0-4feb-aa45-88a04fe871fa)
 
