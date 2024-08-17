@@ -34,3 +34,5 @@ https://router.vuejs.org/
 ## uji coba halaman dashboard
 ![image](https://github.com/user-attachments/assets/11d3ae71-d542-4cae-9d67-68aa1289a015)
 
+## uji coba menampilkan user di dashboard
+![image](https://github.com/user-attachments/assets/6c60b0e2-718e-478e-bd2d-65f9d7f38d4d)
